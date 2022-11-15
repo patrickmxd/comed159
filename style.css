@@ -49,3 +49,15 @@ header{
     font-family: fantasy;
     
 }
+
+@media(max-width: 800px){
+    .menu{
+        min-width: 100%;
+        display:block;
+        flex-direction:column
+        width: 100%;
+        text-align: left;
+        
+        
+    }
+}
